@@ -3,8 +3,11 @@
 <code>🎓 Student: KPI / IM-22</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
+<code>👀 [Open-source contribution](CONTRIBUTION.md)</code>
+<br>
 <code>🧑‍💻 Languages: Typescript, JavaScript, C, Python, Kotlin, Go, Swift, Java, Ada</code>
+<br>
 <code>💬 telegram: [@thebladehit](https://t.me/TheBladeHit)</code>
 <code>📫 [boqdanyarmolka@gmail.com](mailto:boqdanyarmolka@gmail.com)</code>
+<br>
 <code>📦 Tech stack: node.js, nest js, express js, react, react native</code>
